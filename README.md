@@ -1,17 +1,31 @@
-# AI Research Tools (Complete Version)
+# AI Research Tools
 
-[![AI Research Tools](https://img.shields.io/badge/AI-Research%20Tools-blue?style=flat-square)](https://github.com/yourusername/ai-research-tools)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/ai-research-tools?style=social)](https://github.com/yourusername/ai-research-tools/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/yourusername/ai-research-tools?style=social)](https://github.com/yourusername/ai-research-tools/network)
-[![GitHub Issues](https://img.shields.io/github/issues/yourusername/ai-research-tools)](https://github.com/yourusername/ai-research-tools/issues)
-[![License](https://img.shields.io/github/license/yourusername/ai-research-tools)](https://github.com/yourusername/ai-research-tools/blob/main/LICENSE)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/yourusername/ai-research-tools/issues)
+[![AI Research Tools](https://img.shields.io/badge/AI-Research%20Tools-blue?style=flat-square)](https://github.com/Harrypatria/Awesome-AI-Research-Tools)
+[![GitHub Stars](https://img.shields.io/github/stars/Harrypatria/Awesome-AI-Research-Tools?style=social)](https://github.com/Harrypatria/Awesome-AI-Research-Tools/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/Harrypatria/Awesome-AI-Research-Tools?style=social)](https://github.com/Harrypatria/Awesome-AI-Research-Tools/network)
+[![GitHub Issues](https://img.shields.io/github/issues/Harrypatria/Awesome-AI-Research-Tools)](https://github.com/Harrypatria/Awesome-AI-Research-Tools/issues)
+[![License](https://img.shields.io/github/license/Harrypatria/Awesome-AI-Research-Tools)](https://github.com/Harrypatria/Awesome-AI-Research-Tools/blob/main/LICENSE)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Harrypatria/Awesome-AI-Research-Tools/issues)
 
-A curated and systematic collection of AI-powered tools for enhancing research workflows. This list draws from selected repositories, including [AI-Tools-for-Research](https://github.com/ozancanozdemir/AI-Tools-for-Research), [awesome-ai-research-tools](https://github.com/0x11c11e/awesome-ai-research-tools), and [ai-tools](https://github.com/drshahizan/ai-tools), as well as additional sources like web searches and awesome lists on GitHub. Tools are clustered into categories for better organization, with summaries provided in tables. Duplicates across sources have been merged, and brief descriptions are included based on available information. Additional info on pricing, integrations, and key features has been added where relevant.
+A curated collection of AI-powered tools designed to enhance research workflows. This list integrates resources from repositories such as [AI-Tools-for-Research](https://github.com/ozancanozdemir/AI-Tools-for-Research), [awesome-ai-research-tools](https://github.com/0x11c11e/awesome-ai-research-tools), and [ai-tools](https://github.com/drshahizan/ai-tools), supplemented by additional sources including web searches and GitHub awesome lists. Tools are organized into categories with summaries in tables. Duplicates are merged, and descriptions incorporate available details. Additional information on pricing, integrations, and features is provided where relevant.
+
+## Table of Contents
+
+- [Literature Search and Discovery](#literature-search-and-discovery)
+- [PDF and Document Interaction](#pdf-and-document-interaction)
+- [Writing and Editing](#writing-and-editing)
+- [Visualization and Mapping](#visualization-and-mapping)
+- [General AI Assistants and Chatbots](#general-ai-assistants-and-chatbots)
+- [Citation Management](#citation-management)
+- [Transcription and Media Tools](#transcription-and-media-tools)
+- [Data Analysis and Visualization](#data-analysis-and-visualization)
+- [Autonomous Research and AI Agents](#autonomous-research-and-ai-agents)
+- [Other Tools](#other-tools)
+- [Tips for Using AI Tools as an Expert](#tips-for-using-ai-tools-as-an-expert)
 
 ## Literature Search and Discovery
 
-These tools help in finding, connecting, and analyzing research papers and literature. Many offer free tiers with premium features for advanced users; integrate with databases like PubMed or arXiv.
+These tools assist in finding, connecting, and analyzing research papers and literature. Many provide free tiers with premium options for advanced users and integrate with databases like PubMed or arXiv.
 
 | Tool              | Summary                                                                 | Link                              | Additional Info |
 |-------------------|-------------------------------------------------------------------------|-----------------------------------|-----------------|
@@ -38,7 +52,7 @@ These tools help in finding, connecting, and analyzing research papers and liter
 
 ## PDF and Document Interaction
 
-Tools for summarizing, querying, and interacting with PDFs and documents. Often support multi-file uploads; check for OCR capabilities for scanned docs.
+Tools for summarizing, querying, and interacting with PDFs and documents. Often support multi-file uploads; check for OCR capabilities for scanned documents.
 
 | Tool         | Summary                                                                 | Link                              | Additional Info |
 |--------------|-------------------------------------------------------------------------|-----------------------------------|-----------------|
@@ -191,11 +205,11 @@ Miscellaneous tools that aid in research processes.
 
 ## Tips for Using AI Tools as an Expert
 
-- **Verify Outputs**: Always cross-check AI-generated content with original sources to avoid hallucinations or biases.
-- **Combine Tools**: Use literature search tools first, then PDF interactors for deep dives, and writing aids for polishing—chain them for efficiency.
-- **Privacy and Ethics**: Opt for tools with data privacy features, especially for sensitive research; cite AI usage transparently in papers.
-- **Customize Prompts**: For chatbots, use specific, structured prompts (e.g., "Summarize key findings from [paper] in bullet points") to get better results.
-- **Integrate with Workflows**: Leverage browser extensions and API integrations to embed AI seamlessly into your daily research routine.
-- **Stay Updated**: Follow GitHub repos and AI news on X for new tools; test free tiers before committing to premiums.
-- **Handle Limitations**: AI excels at pattern recognition but struggles with novel insights—use it as an assistant, not a replacement for human expertise.
-- **Collaborate Safely**: When sharing, use tools with collaboration features but ensure compliance with institutional policies on AI.
+- Verify Outputs: Always cross-check AI-generated content with original sources to avoid hallucinations or biases.
+- Combine Tools: Use literature search tools first, then PDF interactors for deep dives, and writing aids for polishing to chain them for efficiency.
+- Privacy and Ethics: Opt for tools with data privacy features, especially for sensitive research; cite AI usage transparently in papers.
+- Customize Prompts: For chatbots, use specific, structured prompts (for example, "Summarize key findings from [paper] in bullet points") to get better results.
+- Integrate with Workflows: Leverage browser extensions and API integrations to embed AI seamlessly into your daily research routine.
+- Stay Updated: Follow GitHub repositories and AI news on X for new tools; test free tiers before committing to premiums.
+- Handle Limitations: AI excels at pattern recognition but struggles with novel insights; use it as an assistant, not a replacement for human expertise.
+- Collaborate Safely: When sharing, use tools with collaboration features but ensure compliance with institutional policies on AI.

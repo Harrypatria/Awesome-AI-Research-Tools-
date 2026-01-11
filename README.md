@@ -3,8 +3,6 @@
 [![AI Research Tools](https://img.shields.io/badge/AI-Research%20Tools-blue?style=flat-square)](https://github.com/Harrypatria/Awesome-AI-Research-Tools)
 [![GitHub Stars](https://img.shields.io/github/stars/Harrypatria/Awesome-AI-Research-Tools?style=social)](https://github.com/Harrypatria/Awesome-AI-Research-Tools/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/Harrypatria/Awesome-AI-Research-Tools?style=social)](https://github.com/Harrypatria/Awesome-AI-Research-Tools/network)
-[![GitHub Issues](https://img.shields.io/github/issues/Harrypatria/Awesome-AI-Research-Tools)](https://github.com/Harrypatria/Awesome-AI-Research-Tools/issues)
-[![License](https://img.shields.io/github/license/Harrypatria/Awesome-AI-Research-Tools)](https://github.com/Harrypatria/Awesome-AI-Research-Tools/blob/main/LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Harrypatria/Awesome-AI-Research-Tools/issues)
 
 A curated collection of AI-powered tools designed to enhance research workflows. This list integrates resources from repositories such as [AI-Tools-for-Research](https://github.com/ozancanozdemir/AI-Tools-for-Research), [awesome-ai-research-tools](https://github.com/0x11c11e/awesome-ai-research-tools), and [ai-tools](https://github.com/drshahizan/ai-tools), supplemented by additional sources including web searches and GitHub awesome lists. Tools are organized into categories with summaries in tables. Duplicates are merged, and descriptions incorporate available details. Additional information on pricing, integrations, and features is provided where relevant.

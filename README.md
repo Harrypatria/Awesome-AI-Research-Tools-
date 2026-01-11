@@ -1,4 +1,11 @@
-# AI Research Tools
+# AI Research Tools (Complete Version)
+
+[![AI Research Tools](https://img.shields.io/badge/AI-Research%20Tools-blue?style=flat-square)](https://github.com/yourusername/ai-research-tools)
+[![GitHub Stars](https://img.shields.io/github/stars/yourusername/ai-research-tools?style=social)](https://github.com/yourusername/ai-research-tools/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/yourusername/ai-research-tools?style=social)](https://github.com/yourusername/ai-research-tools/network)
+[![GitHub Issues](https://img.shields.io/github/issues/yourusername/ai-research-tools)](https://github.com/yourusername/ai-research-tools/issues)
+[![License](https://img.shields.io/github/license/yourusername/ai-research-tools)](https://github.com/yourusername/ai-research-tools/blob/main/LICENSE)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/yourusername/ai-research-tools/issues)
 
 A curated and systematic collection of AI-powered tools for enhancing research workflows. This list draws from selected repositories, including [AI-Tools-for-Research](https://github.com/ozancanozdemir/AI-Tools-for-Research), [awesome-ai-research-tools](https://github.com/0x11c11e/awesome-ai-research-tools), and [ai-tools](https://github.com/drshahizan/ai-tools), as well as additional sources like web searches and awesome lists on GitHub. Tools are clustered into categories for better organization, with summaries provided in tables. Duplicates across sources have been merged, and brief descriptions are included based on available information. Additional info on pricing, integrations, and key features has been added where relevant.
 

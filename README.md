@@ -47,6 +47,7 @@ These tools assist in finding, connecting, and analyzing research papers and lit
 | Google Scholar   | Broad search engine for scholarly articles and citations.              | [scholar.google.com](https://scholar.google.com/) | Free; alerts for new papers. |
 | Rayyan           | AI-assisted for systematic review screening and collaboration.          | [rayyan.ai](https://rayyan.ai/) | Freemium; blinding features. |
 | Afforai          | All-in-one research assistant with modes for retrieval and ideation.    | [afforai.com](https://afforai.com/) | Freemium; multi-search engines. |
+| JournalCompass | Free bilingual journal search with AI journal matcher; covers 43,499 journals with CAS tiers, impact factors, review times and APCs. | [journalcompass.com](https://journalcompass.com) | Free; bilingual (EN/ZH). |
 
 ## PDF and Document Interaction
 
